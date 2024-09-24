@@ -2,4 +2,5 @@
     <string name="app_name">My Applicationcompose</string>
     <string name="happy_birthday_text">Happy Birthday Paule!</string>
     <string name="signature_text">From kenza</string>
+    <string name="roll">Roll</string>
 </resources>
